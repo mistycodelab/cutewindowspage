@@ -1,2 +1,2 @@
-# CUTEWINDOWSPAGE
+# cutewindowspage
 CUTE2
